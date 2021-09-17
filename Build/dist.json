@@ -1,7 +1,7 @@
 {
 "companyName": "Høllinhus",
 "productName": "Moku Moku the World",
-"productVersion": "0.0.82",
+"productVersion": "0.0.83",
 "dataUrl": "dist.data.unityweb",
 "wasmCodeUrl": "dist.wasm.code.unityweb",
 "wasmFrameworkUrl": "dist.wasm.framework.unityweb",
